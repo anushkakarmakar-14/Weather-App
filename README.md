@@ -9,4 +9,5 @@ This is a simple Weather App built with Python that allows users to fetch real-t
   <li>Uses the OpenWeatherMap API for live data</li>
 </ul>
 
-![Weather UI](Images/Weather UI.png)
+![Weather UI](https://raw.githubusercontent.com/anushkakarmakar-14/Weather-App/main/Images/Weather%20UI.png)
+
